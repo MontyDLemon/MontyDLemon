@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm MontyD_Lemon</h1>
 <h3 align="center">A passionate frontend developer from Italy.</h3>
 
+<img src="https://media.giphy.com/media/C7l38dCPSgz6mPiDgQ/giphy.gif" alt="funny GIF" width="50%" height="50%" align=right>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montydlemon&label=Profile%20views&color=0e75b6&style=flat" alt="montydlemon" /> </p>
 
 - 🌱 I’m currently learning **Unity 3D**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Mobile Development**
 
 - 📫 How to reach me **dlemoncompany@gmail.com**
 
-<iframe src="https://giphy.com/embed/C7l38dCPSgz6mPiDgQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Zion-Animations-C7l38dCPSgz6mPiDgQ">via GIPHY</a></p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
