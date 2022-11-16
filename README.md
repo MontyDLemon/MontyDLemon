@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **dlemoncompany@gmail.com**
 
+<iframe src="https://giphy.com/embed/C7l38dCPSgz6mPiDgQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Zion-Animations-C7l38dCPSgz6mPiDgQ">via GIPHY</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
